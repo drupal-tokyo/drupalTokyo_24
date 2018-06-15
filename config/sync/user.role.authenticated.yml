@@ -1,0 +1,16 @@
+uuid: 9f5cfffd-ae15-49eb-8914-f36a8f4cddf6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dJ0L2DNSj5q6XVZAGsuVDpJTh5UeYkIPwKrUOOpr8YI
+id: authenticated
+label: 'Authenticated user'
+weight: 1
+is_admin: false
+permissions:
+  - 'access content'
+  - 'access shortcuts'
+  - 'access site-wide contact form'
+  - 'search content'
+  - 'use text format basic_html'

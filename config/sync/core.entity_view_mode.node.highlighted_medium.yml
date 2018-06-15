@@ -1,0 +1,12 @@
+uuid: a0cc98d6-ce5d-435d-8cce-570e45727f8d
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: m8Y621Al1-uiuYszNLG2SZEwJ3Kt2wFQbFdWGXdY6x8
+id: node.highlighted_medium
+label: 'Highlighted Medium'
+targetEntityType: node
+cache: true
