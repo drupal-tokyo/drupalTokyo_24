@@ -1,0 +1,22 @@
+uuid: d4360de3-f841-4dd8-a679-56f2bcca280e
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.recipe
+  module:
+    - entity_embed
+    - node
+_core:
+  default_config_hash: xgvZUh-eaMilacE1XYCQ9nLH-2-meOjCyofXSO82gqg
+label: Node
+id: node
+type_id: entity
+type_settings:
+  entity_type: node
+  bundles:
+    - recipe
+  display_plugins: {  }
+  entity_browser: ''
+  entity_browser_settings: null
+icon_uuid: null

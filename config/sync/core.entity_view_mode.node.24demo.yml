@@ -1,0 +1,10 @@
+uuid: 87c0a5fd-2c4b-4b7a-82af-6d2a71000443
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.24demo
+label: 24demo
+targetEntityType: node
+cache: true
