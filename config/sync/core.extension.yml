@@ -32,6 +32,8 @@ module:
   quickedit: 0
   rdf: 0
   responsive_image: 0
+  schema_metatag: 0
+  schema_recipe: 0
   search: 0
   seo_checklist: 0
   shortcut: 0
