@@ -8,8 +8,10 @@
 
 ## 再現手順
 
+※Landoの利用にはDocker Engineの起動が必要です。
+
 ```
-git clone git@gitlab.com:snize/drupalTokyo_24.git
+git clone git@github.com:snize/drupalTokyo_24.git
 cd drupalTokyo_24
 lando start
 lando composer install
